@@ -12,3 +12,4 @@ C:\Users\Mariana\Documents\tm\obj\Debug\net10.0\refint\tm.dll
 C:\Users\Mariana\Documents\tm\obj\Debug\net10.0\tm.pdb
 C:\Users\Mariana\Documents\tm\obj\Debug\net10.0\tm.genruntimeconfig.cache
 C:\Users\Mariana\Documents\tm\obj\Debug\net10.0\ref\tm.dll
+C:\Users\Mariana\Documents\tm\obj\Debug\net10.0\tm.sourcelink.json
